@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Anass
 
-<!--
-**anassrahou/anassrahou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT and cybersecurity student focused on:
+- Linux
+- Networking
+- SQL
+- SOC analysis
+- Wireshark
+- Python basics
 
-Here are some ideas to get you started:
+Currently building hands-on labs and security projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Linux
+- SQL
+- Wireshark
+- Nmap
+- Ubuntu/Kali
+- Networking
+- Git/GitHub
+
+## Current Projects
+- Home SOC Lab
+- SQL Practice Portfolio
+- Packet Analysis Labs
+
+## Goals
+- SOC Analyst
+- IT Support
+- Security Operations
